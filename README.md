@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohan C.
 - 👀 I’m interested in DataScience and Automation
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 - 💞️ I’m looking to collaborate on DataScience Projects and Business Analytics Projects
 - 📫 How to reach me rcviit4196@gmail.com
 
